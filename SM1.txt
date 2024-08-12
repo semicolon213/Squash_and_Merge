@@ -3,3 +3,6 @@ Squash and Merge Default file1
 ---------------test 1--------------------------
 main commit 1
 main commit 2
+
+---------------test 2--------------------------
+main commit 1
